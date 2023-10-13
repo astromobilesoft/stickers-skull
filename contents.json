@@ -1,0 +1,48 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.skulls",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "pack1",
+      "name": "Pack 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack2",
+      "name": "Pack 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack3",
+      "name": "Pack 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack4",
+      "name": "Pack 4",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack5",
+      "name": "Pack 5",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack6",
+      "name": "Pack 6",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack7",
+      "name": "Pack 7",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    }
+  ]
+}
