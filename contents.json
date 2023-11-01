@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "calaverasa1",
+      "name": "Animated Skull 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "pack1",
       "name": "Pack 1",
       "animated_sticker_pack": false,
