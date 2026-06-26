@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pack13",
+      "name": "Pack 13",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },    
+    {
+      "identifier": "pack14",
+      "name": "Pack 14",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },    
+    {
       "identifier": "pack9",
       "name": "Pack 9",
       "animated_sticker_pack": false,
